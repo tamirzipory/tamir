@@ -2,4 +2,4 @@ Hello, I'm trying to connect the server (server_tamir) to the client (tamir_pro)
 
 The problem is in the index file in the routes folder.
 
-I would love to get help connecting the server with the client in any way possible. Thanks!
+I would like to get help connecting the server with the client in any way possible. Thanks!
